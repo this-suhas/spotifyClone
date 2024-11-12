@@ -1,1 +1,1 @@
-# spotifyclone
+#Spotify Clone App using React and Tailwind
